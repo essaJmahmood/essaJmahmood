@@ -1,6 +1,7 @@
+![0-02-0b-4906f20b437bbcf25fcd51bc79f25641f865a2b75fcfdcee23c948fbddad29e9_68389f741347dcd0]
 ### Hi there 👋, **Essa jamal**
 #### i am a junior **full stack web developer**
-![i am a junior **full stack web developer**](https://scontent.febl2-1.fna.fbcdn.net/v/t1.6435-9/s526x395/238112614_662315611405435_4841856584606042333_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=XnlTpBMVC-kAX-OwfFi&_nc_ht=scontent.febl2-1.fna&oh=dc1733941f118c2baf2369819bc0ef45&oe=615B3594)
+![i am a junior **full stack web developer**](https://user-images.githubusercontent.com/77193607/132190076-6903cb4a-ef14-42b6-8b2e-b1ce4aad467d.jpg)
 
 
 Skills: -Html -CSS -JS -jQuery -tailwindcss  -php -mysql -java -oop -c# -python -datastracture and algorithm in java -swing(java)
