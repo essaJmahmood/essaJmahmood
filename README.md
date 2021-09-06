@@ -1,9 +1,22 @@
-![0-02-0b-4906f20b437bbcf25fcd51bc79f25641f865a2b75fcfdcee23c948fbddad29e9_68389f741347dcd0]
 ### Hi there 👋, **Essa jamal**
 #### i am a junior **full stack web developer**
 
+hi i am essa jamal, a junior full stack web developer and the CEO and funder of BestSoft and TechTeacherGroup.
 
-Skills: -Html -CSS -JS -jQuery -tailwindcss  -php -mysql -java -oop -c# -python -datastracture and algorithm in java -swing(java)
+Skills:
+-Html 
+-CSS 
+-JS 
+-jQuery 
+-tailwindcss  
+-php 
+-mysql 
+-java 
+-oop 
+-c# 
+-python 
+-datastracture and algorithm in java 
+-swing(java)
 
 - 🔭 I’m currently working on boewa.org front end  
 - 🌱 I’m currently learning laravel and react js 
